@@ -1,5 +1,4 @@
 # A Defender’s Guide for Protecting Systems Reducing Attack Surface
-![IMG_20250130_231429](https://github.com/user-attachments/assets/0dfe9327-d242-43d3-9a28-65a455191452)
 ![IMG_20250130_230644](https://github.com/user-attachments/assets/50bd8988-58b7-4c8d-9412-eff8a651b514)
 ![IMG_20250130_230733](https://github.com/user-attachments/assets/a692505c-1e49-4835-8c56-c5c4da8906fc)
 ![IMG_20250130_230841](https://github.com/user-attachments/assets/3647b796-44bc-4b96-ad4d-7da1769d6f6e)
